@@ -3,5 +3,5 @@
 @section('h1', "Bienvenido a Kilak Facturador")
 
 @section('content')
-    <p>Aquí contenido</p>
+    <p>Aquí contenido del sitio</p>
 @endsection
