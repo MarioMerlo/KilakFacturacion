@@ -54,7 +54,7 @@
 
     <footer class="footer mt-auto p-3 bg-dark">
       <div class="container text-light text-end">
-        Copyright Kilak 2023 <i class="bi bi-globe"></i> <a href="https://kilak.com">kilak.com</a>
+        Copyright Kilak 2024 <i class="bi bi-globe"></i> <a href="https://kilak.com">kilak.com</a>
       </div>
     </footer>
 
